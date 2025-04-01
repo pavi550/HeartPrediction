@@ -14,6 +14,7 @@ Age,Gender,BloodPressure,Cholesterol,HeartRate,QuantumPatternFeature,HeartDiseas
 65,Female,140,206,104,7.545537611,Yes
 69,Male,108,180,100,6.799793664,Yes
 53,Male,110,283,113,9.190135016,No
+52,Male,109,282,111,9.290136016,No
 32,Male,94,223,119,9.322586014,No
 51,Female,171,161,106,8.316818664,Yes
 31,Male,131,202,73,7.389174382,Yes
@@ -36,6 +37,7 @@ Age,Gender,BloodPressure,Cholesterol,HeartRate,QuantumPatternFeature,HeartDiseas
 44,Male,115,160,60,7.612218599,Yes
 76,Male,136,262,99,8.834266598,No
 73,Female,175,188,71,6.419472153,Yes
+74,Female,174,189,71,6.429482153,Yes
 32,Male,145,203,115,8.026084123,Yes
 66,Male,152,247,95,7.92592397,Yes
 36,Male,137,204,104,8.176209523,Yes
